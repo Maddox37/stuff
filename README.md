@@ -1,2 +1,2 @@
-# stuff
-public repo, for school shit
+public repo, just for school shit.
+my first fuclin repo
