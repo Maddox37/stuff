@@ -1,0 +1,33 @@
+body{
+    display: grid;
+    background-color: rgb(39, 38, 38);
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+    display: grid;
+    text-align:center;
+    align-content: center;
+}
+.topbar{
+    border: solid #e4dcdc;
+    display:flex;
+    width: calc(100vw - 30px);
+    left: -0;
+    top: 0;
+    box-shadow: 0 2px 20px ;
+    justify-content: space-between;
+    padding: 10px 10px;
+    position: fixed;
+    border-radius: 20px;
+}
+.main{
+    color: rgb(255, 254, 191);
+    text-align: center;
+    border: double;
+    margin-top: 20px;
+    border-radius: 20px;
+    
+}
+.topbar a{
+    font-size:22px; text-decoration:none;
+    color: #ffffff;
+}
